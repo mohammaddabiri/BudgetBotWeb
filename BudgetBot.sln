@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BudgetBot", ".", "{FCA4051E-E47C-4061-B0EE-D799FAADC3C9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_18571"
+		Debug.AspNetCompiler.PhysicalPath = "D:\dev\appharbor\BudgetBot\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_18571\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_18571"
+		Release.AspNetCompiler.PhysicalPath = "D:\dev\appharbor\BudgetBot\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_18571\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "18571"
+		SlnRelativePath = "D:\dev\appharbor\BudgetBot\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetBotWebApp", "BudgetBotWebApp\BudgetBotWebApp.csproj", "{744BC35C-B0E6-46CF-8B45-D1AC0A41B5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA4051E-E47C-4061-B0EE-D799FAADC3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA4051E-E47C-4061-B0EE-D799FAADC3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA4051E-E47C-4061-B0EE-D799FAADC3C9}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA4051E-E47C-4061-B0EE-D799FAADC3C9}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{744BC35C-B0E6-46CF-8B45-D1AC0A41B5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744BC35C-B0E6-46CF-8B45-D1AC0A41B5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744BC35C-B0E6-46CF-8B45-D1AC0A41B5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744BC35C-B0E6-46CF-8B45-D1AC0A41B5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
